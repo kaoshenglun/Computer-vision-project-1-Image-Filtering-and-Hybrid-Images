@@ -117,13 +117,3 @@ The result of hybrid images are shown below.
 	|---|---|---|---|
 	|<img src="marilyneinstein/low_frequencies.png">|<img src="marilyneinstein/high_frequencies.png">|<img src="marilyneinstein/hybrid_image.png">|<img src="marilyneinstein/hybrid_image_scales.png">|
 
-
-* Pig & Person
-
-	|Low-frequency|High-frequency|Hybrid Image|With different scales|
-	|---|---|---|---|
-	|<img src="pigperson/low_frequencies.png">|<img src="pigperson/high_frequencies.png">|<img src="pigperson/hybrid_image.png">|<img src="pigperson/hybrid_image_scales.png">|
-	
-	|Low-frequency|High-frequency|Hybrid Image|With different scales|
-	|---|---|---|---|
-	|<img src="personpig/low_frequencies.png">|<img src="personpig/high_frequencies.png">|<img src="personpig/hybrid_image.png">|<img src="personpig/hybrid_image_scales.png">|
